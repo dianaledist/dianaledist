@@ -1,4 +1,4 @@
-
+<img src="https://media-exp1.licdn.com/dms/image/C4E16AQEYggI8MkIwzA/profile-displaybackgroundimage-shrink_350_1400/0?e=1610582400&v=beta&t=kzId1tHVNQ25TZxjlEQbHrkc55AgXkrYYHJb0mc9n-s">
 
 # Hello world! ✨ I'm Diana Leonor Di Stefano
 ### Psychologist, digital designer & front-end developer
