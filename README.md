@@ -27,6 +27,7 @@ Do you want to know some things I do?
 ### Let's connect and learn together 💜 Do you join me?
 * My behance portfolio [<img src="https://github.com/devicons/devicon/blob/master/icons/behance/behance-original.svg" width="25">](https://www.behance.net/dianaledist)
 * My LinkedIn profile [<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="25">](https://www.linkedin.com/in/dianadistefano/)
+* My Dribbble portfolio <a href="https://dribbble.com/dianaledist" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="dianaledist" width="25" /></a>
 <!--
 **dianaledist/dianaledist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
