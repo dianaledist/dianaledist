@@ -22,6 +22,7 @@ Do you want to know some things I do?
 #### Other cool tools
 [<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="48">](https://git-scm.com/)  [<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="48">](https://github.com/) [<img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" width="48">](https://es.wordpress.org/)  [<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="48">](https://code.visualstudio.com/) [<img src="https://github.com/devicons/devicon/blob/master/icons/moodle/moodle-original.svg" width="48">](https://moodle.org/?lang=es)
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dianaledist&show_icons=true&locale=en&layout=compact" alt="dianaledist" /></p>
 
 ### Let's connect and learn together 💜 Do you join me?
 * My behance portfolio [<img src="https://github.com/devicons/devicon/blob/master/icons/behance/behance-original.svg" width="25">](https://www.behance.net/dianaledist)
