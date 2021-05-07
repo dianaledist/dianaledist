@@ -26,9 +26,21 @@ Do you want to know some things I do?
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dianaledist&hide=issues,contribs&show_icons=true&theme=dracula" alt="dianaledist github stats" /></p>
 
 ### Let's connect and learn together 💜 Do you join me?
-* My behance portfolio [<img src="https://github.com/devicons/devicon/blob/master/icons/behance/behance-original.svg" width="25">](https://www.behance.net/dianaledist)
-* My LinkedIn profile [<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="25">](https://www.linkedin.com/in/dianadistefano/)
-* My Dribbble portfolio <a href="https://dribbble.com/dianaledist" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="dianaledist" width="25" /></a>
+
+
+
+[![Dribbble: dianaledist](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/dianaledist)
+[![Behance: dianaledist](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/dianaledist)
+[![Mail: dianaledist](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diana.distefano@gmail.com)
+[![Instagram: dianaledist](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dianaledist)
+[![Twitter: dianaledist](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dianaledist)
+
+<!-- * My behance portfolio [<img src="https://github.com/devicons/devicon/blob/master/icons/behance/behance-original.svg" width="25">](https://www.behance.net/dianaledist)
+* My Dribbble portfolio <a href="https://dribbble.com/dianaledist" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="dianaledist" width="25" /></a> 
+
+[![Twitter: dianaledist](https://img.shields.io/twitter/follow/dianaledist?style=social)](https://twitter.com/dianaledist)
+[![Linkedin: dianaledist](https://img.shields.io/badge/-dianaledist-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dianaledist)](https://www.linkedin.com/in/dianaledist) -->
+
 <!--
 **dianaledist/dianaledist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
