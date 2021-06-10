@@ -8,7 +8,7 @@
 
 Do you want to know some things I do?
 
-* I'm currently working on front-end projects with uxui and gender perspective 🥰
+* I'm currently working on full-stack projects with uxui and gender perspective 🥰
 * I am materializing ideas from paper to screens at [disatechgo](https://disatechgo.com/) ✏️
 * I'm studying full-stack development at [Coderhouse](https://www.coderhouse.com/) and doing a Master degree in Digital Marketing at [SpainBS](https://www.spainbs.com/) + [UCAM](https://www.ucam.edu/)
 
