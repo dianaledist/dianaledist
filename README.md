@@ -1,32 +1,53 @@
 <img src="https://media-exp3.licdn.com/dms/image/C4E16AQEYggI8MkIwzA/profile-displaybackgroundimage-shrink_350_1400/0/1602980772595?e=1628726400&v=beta&t=i9cqPPHcaVOcbepN37mRgFUQxh6booob4BI9kBn4K4A">
 
 # Hello world! ✨ I'm Diana Leonor Di Stefano
-### Psychologist, digital designer & front-end developer
+### Psychologist, UXUI designer & front-end developer
 
 #### I am a curious and restless person, ready for new creative challenges 🚀 I believe that all things in this world are connected and I love finding new relationships in things that don't seem connected at first glance 💡
 
 
 Do you want to know some things I do?
 
-* I'm currently working on full-stack projects with uxui and gender perspective 🥰
-* I am materializing ideas from paper to screens at [disatechgo](https://disatechgo.com/) ✏️
-* I'm studying full-stack development at [Coderhouse](https://www.coderhouse.com/) and doing a Master degree in Digital Marketing at [SpainBS](https://www.spainbs.com/) + [UCAM](https://www.ucam.edu/)
+* 🚀 I'm currently working on full-stack projects with uxui, gender and accessible perspective 🥰
+* 🔥 I am materializing ideas from paper to screens at [disatechgo](https://disatechgo.com/) ✏️
+* 🌱 I'm learning full-stack development at [Coderhouse](https://www.coderhouse.com/) and I've recently finished a Master degree in Digital Marketing at [SpainBS](https://www.spainbs.com/) + [UCAM](https://www.ucam.edu/)
+* 👩‍💻 I love research and teaching, you can check my articles in [Google Scholar](https://scholar.google.es/citations?hl=es&user=OieoutsAAAAJ&view_op=list_works&sortby=pubdate) and [ORCID](https://orcid.org/0000-0002-4514-3641)
+* 💃 Curious fact: I'm a dancer! (urban styles, hip hop, twerk, dancehall, femme styles, tap dance, spanish dance, tango, classical, contemporary, locking, popping, and more!)
+* 👌 Fan fact: I love drawing silly things 🎨 
 
 ### Languages and tools
 #### Front-end
-[<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="48">](https://developer.mozilla.org/es/docs/HTML/HTML5) [<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="48">](https://www.w3schools.com/css/) [<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="48">](https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/Qu%C3%A9_es_JavaScript) [<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" width="48">](https://getbootstrap.com/) [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTSDKn3vA2YUbXzN0ZC3gALWJ08gJN-Drl15w&usqp=CAU" width="48">](https://tailwindcss.com/)  [<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="48">](https://sass-lang.com/) [<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" width="48">](https://jquery.com/) 
+[<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="48">](https://developer.mozilla.org/es/docs/HTML/HTML5) 
+[<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="48">](https://www.w3schools.com/css/) 
+[<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="48">](https://www.javascript.com/) 
+[<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="48">](https://es.reactjs.org/) 
+[<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" width="48">](https://getbootstrap.com/) 
+[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTSDKn3vA2YUbXzN0ZC3gALWJ08gJN-Drl15w&usqp=CAU" width="48">](https://tailwindcss.com/) 
+[<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="48">](https://sass-lang.com/)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" width="48">](https://jquery.com/) 
 #### Back-end
-[<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" width="48">](https://www.php.net/) [<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="48">](https://www.python.org/) [<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="48">](https://www.djangoproject.com/) 
+[<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="48">](https://nodejs.org/es/)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="48">](https://www.npmjs.com/)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" width="48">](https://www.php.net/) 
+[<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="48">](https://firebase.google.com/?hl=es)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="48">](https://www.python.org/) 
+[<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="48">](https://www.djangoproject.com/) 
 #### Design 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/330px-Figma-logo.svg.png" width="30">](https://www.figma.com/)  [<img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" width="48">](https://www.adobe.com/es/products/illustrator.html)  [<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width="48">](https://www.adobe.com/es/products/photoshop.html)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/330px-Figma-logo.svg.png" width="30">](https://www.figma.com/) 
+[<img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" width="48">](https://www.adobe.com/es/products/illustrator.html) [<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width="48">](https://www.adobe.com/es/products/photoshop.html)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" width="48">](https://www.adobe.com/es/products/premiere.html)
 #### Other cool tools
-[<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="48">](https://git-scm.com/)  [<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="48">](https://github.com/) [<img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" width="48">](https://es.wordpress.org/)  [<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="48">](https://code.visualstudio.com/) [<img src="https://github.com/devicons/devicon/blob/master/icons/moodle/moodle-original.svg" width="48">](https://moodle.org/?lang=es)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="48">](https://git-scm.com/)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/spss/spss-original.svg" width="48">](https://www.ibm.com/es-es/products/spss-statistics)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="48">](https://github.com/)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" width="48">](https://es.wordpress.org/)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="48">](https://code.visualstudio.com/)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/moodle/moodle-original.svg" width="48">](https://moodle.org/?lang=es)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dianaledist&show_icons=true&locale=en&layout=compact&theme=dracula" alt="dianaledist top-langs" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dianaledist&hide=issues,contribs&show_icons=true&theme=dracula" alt="dianaledist github stats" /></p>
 
 ### Let's connect and learn together 💜 Do you join me?
-
 
 
 [![Dribbble: dianaledist](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/dianaledist)
