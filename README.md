@@ -1,4 +1,4 @@
-<img src="https://media-exp3.licdn.com/dms/image/C4E16AQEYggI8MkIwzA/profile-displaybackgroundimage-shrink_350_1400/0/1602980772595?e=1628726400&v=beta&t=i9cqPPHcaVOcbepN37mRgFUQxh6booob4BI9kBn4K4A">
+<img src="https://media-exp1.licdn.com/dms/image/C4E16AQEYggI8MkIwzA/profile-displaybackgroundimage-shrink_350_1400/0/1602980772595?e=1636588800&v=beta&t=iMbD7MWNJLLPMunvLsY63ol_rawUAXWGrQhC99iUGpA">
 
 # Hello world! ✨ I'm Diana Leonor Di Stefano
 ### Psychologist, UXUI designer & front-end developer
